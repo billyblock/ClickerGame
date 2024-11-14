@@ -40,3 +40,21 @@
 - You can unlock cooler games the more you click.
 
 - Purchases include" better equipment like mics, headphones, gaming chair, mouse, keyboard, gamepad...
+
+## 5. Ecosystem Simulator
+
+- Click to plant trees, create life, and maintain an ecosystem.
+
+- Players can upgrade to larger life forms (start with bacteria, then animals, then human can be the final form).
+
+- Player can manage the weather (some bad weather may occur randomly, good weather the player has to purchase to keep the ecosystem healthy)
+
+- When the ecosystem is healthy enough, the player can move to new biomes.
+
+## 6. Cooking Clicker
+
+- Click to cook food for customers, manage staff, and make money for your restaurant.
+
+- Players can upgrade their cooking equipment, upgrade their menu, hire better staff, etc.
+
+- After some time, the restaurant will not be able to serve more customers, so the player must prestige to a new kitchen.
