@@ -68,3 +68,15 @@
 
 - At a certain point, the village will need to go into a "New Age" which unlocks new upgrades
     and more modern technology with each "New Age"
+
+## 8. Football Clicker
+
+- Click to earn revenue from ticket sales, merchandise, and small sponsorships.
+    With every click, the revenue increases, but it will eventually reach a max amount that wont be suffecient to keep the team from going bankrupt. The player must then look to more passive income sources (like bigger sponsorships).
+
+- Upgrade your stadium, coaches, and recruit new players.
+    Upgrading will help earn more revenue and will implent a feature called "hype" around your team.
+
+- Tournaments will be a feature that allows The Player to go against ai.
+    Tournaments will have different difficulties allowing the player to chose which difficulty will fit their teams level.
+    The higher the difficulty the more revenue, fans, sponserships, and hype that will be given to your team.
