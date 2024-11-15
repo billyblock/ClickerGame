@@ -58,3 +58,13 @@
 - Players can upgrade their cooking equipment, upgrade their menu, hire better staff, etc.
 
 - After some time, the restaurant will not be able to serve more customers, so the player must prestige to a new kitchen.
+
+## 7. City Clicker
+
+- Click to generate more income for a small village
+
+- Players can build new buildings to generate passive income, manage workers (builders, cooks, farmers, etc.)
+    and have kitchens to feed their populations that increases morale (passive income boost/multiplyer)
+
+- At a certain point, the village will need to go into a "New Age" which unlocks new upgrades
+    and more modern technology with each "New Age"
