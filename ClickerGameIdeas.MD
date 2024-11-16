@@ -80,3 +80,13 @@
 - Tournaments will be a feature that allows The Player to go against ai.
     Tournaments will have different difficulties allowing the player to chose which difficulty will fit their teams level.
     The higher the difficulty the more revenue, fans, sponserships, and hype that will be given to your team.
+
+## 9. Basketball Clicker (responsible for inspiring Football Clicker)
+
+- Click to dribble.
+
+- Player can upgrade their dribble moves, shot types, etc.
+
+- After the player gets a certain amount of points they can join a team, eventually they can play on a better team with better players.
+
+- Start on the Pistons? Eventually make it to the Lakers?
